@@ -1,0 +1,142 @@
+.confused{
+    width:50%;
+    display: block;
+    margin: auto;
+    padding: 2%;
+}
+
+header{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+#bio{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container{
+position: absolute;
+  color: white;
+  top: 50%;
+  bottom: 50%;
+  
+}
+.birria{
+    width:170px;
+    height: 170px;
+}
+.scampi{
+    width:170px;
+    height: 170px;
+}
+.strawberry{
+    width:170px;
+    height: 170px;
+}
+.chocolate{
+    width:150px;
+    height: 160px;
+}
+.img-section{
+    display: flex;
+    justify-content: space-between;
+    border: solid white;
+    position: relative
+}
+h1{
+    color: white;
+}
+.dog{
+    width:170px;
+    height: 170px;  
+}
+.art{
+    width:170px;
+    height: 170px;
+}
+.Miami{
+   width: 170px;
+   height: 170PX;
+}
+.extras{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20%;
+    border: solid white;
+}
+h2{
+    color: white;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: -1px -1px 0 lavender;
+}
+#exp{
+    display: flex;
+    justify-content: flex-end;
+}
+h3{
+    font-size: larger;
+    color: white;
+}
+.paragraph{
+    font-size:large;
+    font-family:cursive;
+    margin: auto;
+    color:white;
+   text-align: center;
+   border: solid white;
+
+}
+.microsoft{
+    width:350px;
+    height: 270px;
+}
+.amazon{
+    width:350px;
+    height: 250px;
+}
+.perficient{
+    height: 250px;
+}
+.deloitte{
+    width:350px;
+    height: 270px;
+
+}
+.myExp{
+
+    background-color: black;
+}
+.journey{
+    display: block;
+    align-items: center;
+    margin: 0 17% 0 18%;
+   
+}
+.quiz{
+        width:600px;
+        height: 400px
+ }
+.anime{
+        width:500px;
+        height: 400px;
+}
+.anime{
+  
+    align-items: right;
+}
+footer{
+    color: white;
+}
